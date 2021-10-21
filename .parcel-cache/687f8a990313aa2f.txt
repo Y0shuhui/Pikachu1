@@ -1,0 +1,16 @@
+15
+56C:\Users\yuan\Desktop\Pikachu\dist\index.f5322d01.js.map132792735383502250 0
+40C:\Users\yuan\Desktop\Pikachu\src\images132792721599266921 1
+34C:\Users\yuan\Desktop\Pikachu\dist132792735383512308 1
+50C:\Users\yuan\Desktop\Pikachu\src\images\flash.gif132792721599270000 0
+43C:\Users\yuan\Desktop\Pikachu\src\style.css132792725349156520 0
+33C:\Users\yuan\Desktop\Pikachu\src132792736379245249 1
+57C:\Users\yuan\Desktop\Pikachu\dist\index.5952072d.css.map132792735383502250 0
+43C:\Users\yuan\Desktop\Pikachu\src\test.html132792737263097038 0
+44C:\Users\yuan\Desktop\Pikachu\src\index.html132792735271307532 0
+41C:\Users\yuan\Desktop\Pikachu\src\mian.js132791904194580323 0
+45C:\Users\yuan\Desktop\Pikachu\dist\index.html132792735383457206 0
+41C:\Users\yuan\Desktop\Pikachu\src\test.js132792737503489405 0
+53C:\Users\yuan\Desktop\Pikachu\dist\flash.730c9068.gif132792735383418198 0
+53C:\Users\yuan\Desktop\Pikachu\dist\index.5952072d.css132792735383457206 0
+52C:\Users\yuan\Desktop\Pikachu\dist\index.f5322d01.js132792735383457206 0
